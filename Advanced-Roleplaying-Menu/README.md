@@ -5,4 +5,4 @@ Deliver Packages to your buddies, Go on duty as a police officer, and more!
 - /onduty -- Toggles between being on-duty or not. (Only enables/disables the LEO Category in the menu for now.)
 # Credits
 - Basic Police Functionality: Cops FiveM Development Team
-- Menu Framework: @Warxander
+- Menu Framework: @WarMenu By Xander
