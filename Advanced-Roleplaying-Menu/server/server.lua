@@ -1,3 +1,9 @@
+-----------------------
+-- GrimDesigns 
+-- Copyrighted © GrimDesigns 2019
+-- Do not redistribute or edit in any way without my permission.
+----------------------
+
 function getPlayerID(source)
     local identifiers = GetPlayerIdentifiers(source)
     local player = getIdentifiant(identifiers)
@@ -71,3 +77,9 @@ AddEventHandler('CheckPoliceVeh', function(vehicle)
 	TriggerClientEvent('FinishPoliceCheckForVeh',source)
 	TriggerClientEvent('policeveh:spawnVehicle', source, vehicle)
 end)
+
+-----------------------
+-- GrimDesigns 
+-- Copyrighted © GrimDesigns 2019
+-- Do not redistribute or edit in any way without my permission.
+----------------------
