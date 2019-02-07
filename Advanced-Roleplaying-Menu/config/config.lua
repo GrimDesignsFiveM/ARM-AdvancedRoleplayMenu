@@ -1,3 +1,9 @@
+-----------------------
+-- GrimDesigns 
+-- Copyrighted © GrimDesigns 2019
+-- Do not redistribute or edit in any way without my permission.
+----------------------
+
 -- If your action has no objects, do: name = prop_none and set all numerical values to 0.0".
 
 config = {
@@ -68,3 +74,9 @@ config = {
 }
 
 i18n.setLang(tostring(config.lang))
+
+-----------------------
+-- GrimDesigns 
+-- Copyrighted © GrimDesigns 2019
+-- Do not redistribute or edit in any way without my permission.
+----------------------
